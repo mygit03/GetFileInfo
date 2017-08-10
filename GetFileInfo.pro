@@ -18,3 +18,9 @@ SOURCES += main.cpp\
 HEADERS  += getfileinfo.h
 
 FORMS    += getfileinfo.ui
+
+DISTFILES += \
+    myicon.rc
+
+RC_FILE   += \
+    myicon.rc
